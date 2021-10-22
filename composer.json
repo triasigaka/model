@@ -17,6 +17,10 @@
 			"url": "https://github.com/triasigaka/model"
 		}
 	],
+    "require": {
+        "triasigaka/collection-vol": "dev-main",
+        "triasigaka/collection-data": "v0.0.1"
+    },
     "autoload": {
         "psr-4": {
             "triasigaka\\": ""

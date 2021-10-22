@@ -19,7 +19,7 @@
 	],
     "require": {
         "triasigaka/collection-vol": "dev-main",
-        "triasigaka/collection-data": "v1.x-dev"
+        "triasigaka/collection-data": "dev-main"
     },
     "autoload": {
         "psr-4": {
